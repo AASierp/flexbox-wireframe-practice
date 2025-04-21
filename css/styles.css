@@ -71,8 +71,10 @@ body {
     height: 3rem;
     color: aliceblue;
     font-size: 1.5rem;
-    margin-top: .1rem;
+    margin-top: .2rem;
     line-height: 2rem;
+    text-align: center;
+    border-radius: 7px;
 }
 
 .footer{
@@ -81,7 +83,9 @@ body {
     height: 3rem;
     color: aliceblue;
     font-size: 1.5rem;
-    margin: .1rem;
+    margin-top: .2rem;
     line-height: 2rem;
+    text-align: center;
+    border-radius: 7px;
 }
 
